@@ -1,0 +1,7 @@
+package com.liontravel.android.consumer.di;
+
+import com.liontravel.android.consumer.ui.tours.feature.FeatureActivity;
+import com.liontravel.shared.di.ActivityScoped;
+import dagger.Binds;
+import dagger.Module;
+import dagger.Su
